@@ -1,10 +1,10 @@
-id: 33
+id: 34
 user: eq19
-span: span-14
+span: span-15
 title: eQuantum
-baseurl: /grammar
-repository: FeedMapping/grammar
-action: FeedMapping/syntax/actions/runs/14610758923
+baseurl: /primify
+repository: FeedMapping/primify
+action: FeedMapping/grammar/actions/runs/14950946069
 description: eQuantum Project - Assign Prime Identity
 
 #debug:
@@ -48,6 +48,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [2, 6]
+  spin: [2, 7]
   pinned: [maps, feed, lexer, parser, syntax, grammar, primify, corpus, depot, build, factory, headings]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
